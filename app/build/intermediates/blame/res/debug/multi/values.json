@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\U.I.C\\ACADEMICS\\Spring 2016\\CS478\\P4\\AudioServer\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\U.I.C\\ACADEMICS\\Spring 2016\\CS478\\P4\\AudioServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\U.I.C\\ACADEMICS\\Spring 2016\\CS478\\Submitted\\Project4\\AudioServer\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\U.I.C\\ACADEMICS\\Spring 2016\\CS478\\Submitted\\Project4\\AudioServer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:2:1-33:12
+	xmlns:android
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml
+permission#com.project.Vishalaxi.MP3Service.GEN_ID
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:11:5-13:18
+	android:name
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:11:17-71
+application
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:15:5-31:19
+	android:allowBackup
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:16:9-36
+	android:icon
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:17:9-45
+service#com.project.Vishalaxi.MP3Service.ServerImpl
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:19:9-30:19
+	android:label
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:23:13-36
+	android:stopWithTask
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:22:13-40
+	android:name
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:21:13-39
+intent-filter#com.project.Vishalaxi.KeyCommon.KeyGenerator
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:27:13-29:29
+action#com.project.Vishalaxi.KeyCommon.KeyGenerator
+ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:28:17-87
+	android:name
+		ADDED from C:\U.I.C\ACADEMICS\Spring 2016\CS478\Submitted\Project4\AudioServer\app\src\main\AndroidManifest.xml:28:25-84
